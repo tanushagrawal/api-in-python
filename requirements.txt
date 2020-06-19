@@ -1,0 +1,4 @@
+smtplib
+flask
+flask_restful
+email
